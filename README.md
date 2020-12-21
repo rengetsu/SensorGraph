@@ -1,6 +1,6 @@
 # SensorGraph
 
-Java application to display graphs.
+Simple graphical user interface create with Java is made to graph data using JAV libraries.
 
 ### Used jar files
 
